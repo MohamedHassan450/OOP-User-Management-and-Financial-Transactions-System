@@ -1,0 +1,119 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Test.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Test.cpp
+C:\Users\mohamedhassan\source\repos\Test\Test\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsMainScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsInputValidate.h(98,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsInputValidate.h(102,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsClientListScrees.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsBankClient.h(442,20): warning C4091: 'static ': ignored on left of 'clsBankClient::_sTransferHistoryInfo' when no variable is declared
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsBankClient.h(32,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsBankClient.h(411,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsBankClient.h(417,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsBankClient.h(433,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsAddNewClientScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsAddNewClientScreen.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsAddNewClientScreen.h(33,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsDeleteClientScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsUpdateClientScreen.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsUpdateClientScreen.h(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsUpdateClientScreen.h(35,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsDepositScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsDepositScreen.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsWithDrawScreen.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsWithDrawScreen.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsWithDrawScreen.h(45,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsTotalBalance.h(59,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsTrasferScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsTrasferScreen.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsTrasferScreen.h(53,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsAddNewUser.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsDeleteUserScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsDeleteUserScreen.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsFindUserScreen.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsCurrancyCalculatorScreen.h(38,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsCurrancyExchangeMainMenuSceen.h(26,14): warning C4091: 'static ': ignored on left of 'clsCurrancyExchangeMainMenuSceen::_eCurrancyExchangeOptions' when no variable is declared
+  (compiling source file 'Test.cpp')
+  
+C:\Users\mohamedhassan\source\repos\Test\Test\clsBankClient.h(367,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\mohamedhassan\source\repos\Test\Test\clsUser.h(344,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Test.vcxproj -> C:\Users\mohamedhassan\source\repos\Test\x64\Debug\OOP-Bank-Project.exe
